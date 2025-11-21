@@ -1,2 +1,6 @@
-# VMRMOT
-code for paper : Vision–Motion–Reference Alignment for Referring Multi-Object Tracking via Multi-Modal Large Language Models
+\# DiffMOT 
+
+\## DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction	
+
+!\[Teaser](assets/teaser\_git.png)
+
