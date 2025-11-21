@@ -1,4 +1,3 @@
-\# DiffMOT
-
-\## DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction
-
+# VMRMOT
+## Vision–Motion–Reference Alignment for Referring Multi-Object Tracking via Multi-Modal Large Language Models
+![Teaser](assets/teaser_git.png)
